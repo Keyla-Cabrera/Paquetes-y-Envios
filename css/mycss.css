@@ -1,0 +1,58 @@
+.todo {
+	background-image: url(../imagen1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+	
+}
+
+main{
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+
+nav ul{
+	background-color: #d519db;
+	border-bottom:  #000000  solid 3px;
+
+}
+
+nav ul li a{
+	font-size: 20px;
+	color: white;
+}
+
+#cabecera {
+	opacity: 1;
+	text-align: center;
+
+}
+#contenido {
+	width: 100%;
+	height: 50%;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-evenly;
+	min-height: 701px;
+
+}
+#footer {
+}
+#img1 {
+	height: 20%;
+	width: 100%;
+
+}
+#img2 {
+	height: 30%;
+	width: 100%;
+}
+body {
+}
